@@ -27,7 +27,7 @@ The following official documentation is used to retrieve information:
 ## Installation Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kaif-g/chatbot_project.git
+   git clone  https://github.com/mdwaseembnc/Support-Agent-Chatbot-for-CDP.git
    cd chatbot_project
 2. Install the required dependencies:
    pip install -r requirements.txt
